@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/glmvn/.android/build-cache/58843618547f0607521e969557f87084aa637765/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/glmvn/.android/build-cache/58843618547f0607521e969557f87084aa637765/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/glmvn/.android/build-cache/58843618547f0607521e969557f87084aa637765/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/glmvn/.android/build-cache/58843618547f0607521e969557f87084aa637765/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/glmvn/.android/build-cache/58843618547f0607521e969557f87084aa637765/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/glmvn/.android/build-cache/58843618547f0607521e969557f87084aa637765/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/glmvn/.android/build-cache/58843618547f0607521e969557f87084aa637765/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/glmvn/.android/build-cache/58843618547f0607521e969557f87084aa637765/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/glmvn/.android/build-cache/58843618547f0607521e969557f87084aa637765/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/glmvn/.android/build-cache/58843618547f0607521e969557f87084aa637765/output/res/color-v23/abc_color_highlight_material.xml"
+    }
+]

@@ -1,0 +1,100 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/src/main/AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from /home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/src/main/AndroidManifest.xml:4:5-56
+		INJECTED from /home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/src/main/AndroidManifest.xml
+		INJECTED from /home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/src/main/AndroidManifest.xml
+		INJECTED from /home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/src/main/AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from /home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/src/main/AndroidManifest.xml
+		INJECTED from /home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/src/main/AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from /home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/src/main/AndroidManifest.xml:7:22-68
+application
+ADDED from /home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/src/main/AndroidManifest.xml:9:5-32:19
+MERGED from [com.android.support:preference-v7:25.1.0] /home/glmvn/.android/build-cache/637a684fd0eb8c435267b952318b3aa7f3c0abb3/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/glmvn/.android/build-cache/58843618547f0607521e969557f87084aa637765/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] /home/glmvn/.android/build-cache/20fa30e7a7e26721069245dedd753e9caa50b9d5/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] /home/glmvn/.android/build-cache/c05ff0785846edf55711de27a29465a5010705c9/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/glmvn/.android/build-cache/abb27d7cbe6b2b21860da6e9f38ba59ed601a7a5/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/glmvn/.android/build-cache/7addec13fe17bd3a887c3314a7e3ff432532cd5e/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/glmvn/.android/build-cache/ca3f19a006d925c6787846e85db51495785d2439/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/glmvn/.android/build-cache/9c6450bbc806d39425e83f9b3283abaef7e0dd37/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/glmvn/.android/build-cache/d3c2f2ca9e31c446cf8b551a988399cdf1374895/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/glmvn/.android/build-cache/d920f7ca38ad77d0ab2863dae760a3b7f7282216/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/src/main/AndroidManifest.xml:12:9-41
+	android:supportsRtl
+		ADDED from /home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/src/main/AndroidManifest.xml:13:9-35
+	tools:ignore
+		ADDED from /home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/src/main/AndroidManifest.xml:15:9-48
+	android:allowBackup
+		ADDED from /home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/src/main/AndroidManifest.xml:10:9-36
+	android:icon
+		ADDED from /home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/src/main/AndroidManifest.xml:11:9-43
+	android:theme
+		ADDED from /home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/src/main/AndroidManifest.xml:14:9-40
+activity#android.example.com.visualizerpreferences.VisualizerActivity
+ADDED from /home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/src/main/AndroidManifest.xml:16:9-22:20
+	android:launchMode
+		ADDED from /home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/src/main/AndroidManifest.xml:17:13-43
+	android:name
+		ADDED from /home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/src/main/AndroidManifest.xml:16:19-53
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/src/main/AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from /home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/src/main/AndroidManifest.xml:20:27-74
+activity#android.example.com.visualizerpreferences.SettingsActivity
+ADDED from /home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/src/main/AndroidManifest.xml:24:9-31:20
+	android:label
+		ADDED from /home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/src/main/AndroidManifest.xml:26:13-52
+	android:parentActivityName
+		ADDED from /home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/src/main/AndroidManifest.xml:27:13-61
+	android:name
+		ADDED from /home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/src/main/AndroidManifest.xml:25:13-45
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/src/main/AndroidManifest.xml:28:13-30:55
+	android:value
+		ADDED from /home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/src/main/AndroidManifest.xml:30:17-52
+	android:name
+		ADDED from /home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/src/main/AndroidManifest.xml:29:17-63
+uses-sdk
+INJECTED from /home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:preference-v7:25.1.0] /home/glmvn/.android/build-cache/637a684fd0eb8c435267b952318b3aa7f3c0abb3/output/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/glmvn/.android/build-cache/58843618547f0607521e969557f87084aa637765/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.0] /home/glmvn/.android/build-cache/20fa30e7a7e26721069245dedd753e9caa50b9d5/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] /home/glmvn/.android/build-cache/c05ff0785846edf55711de27a29465a5010705c9/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/glmvn/.android/build-cache/abb27d7cbe6b2b21860da6e9f38ba59ed601a7a5/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/glmvn/.android/build-cache/7addec13fe17bd3a887c3314a7e3ff432532cd5e/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/glmvn/.android/build-cache/ca3f19a006d925c6787846e85db51495785d2439/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/glmvn/.android/build-cache/9c6450bbc806d39425e83f9b3283abaef7e0dd37/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.0] /home/glmvn/.android/build-cache/2b1a51abbfa0dfe11fb4482a379dee92f309fd2e/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/glmvn/.android/build-cache/d3c2f2ca9e31c446cf8b551a988399cdf1374895/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] /home/glmvn/.android/build-cache/d920f7ca38ad77d0ab2863dae760a3b7f7282216/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.0] /home/glmvn/.android/build-cache/58843618547f0607521e969557f87084aa637765/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/src/main/AndroidManifest.xml
+		INJECTED from /home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/src/main/AndroidManifest.xml
+		INJECTED from /home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/src/main/AndroidManifest.xml

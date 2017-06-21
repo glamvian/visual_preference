@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/glmvn/.android/build-cache/58843618547f0607521e969557f87084aa637765/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/glmvn/.android/build-cache/58843618547f0607521e969557f87084aa637765/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/glmvn/.android/build-cache/58843618547f0607521e969557f87084aa637765/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/glmvn/Documents/ud851-Exercises-student/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/glmvn/.android/build-cache/58843618547f0607521e969557f87084aa637765/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]
